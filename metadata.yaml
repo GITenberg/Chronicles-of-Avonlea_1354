@@ -1,0 +1,33 @@
+_repo: Chronicles-of-Avonlea_1354
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Montgomery, L. M. (Lucy Maud)
+    aliases:
+    - Montgomery, Lucy Maud
+    - MacDonald, Lucy Maud Montgomery
+    birthdate: 1874
+    deathdate: 1942
+    gutenberg_agent_id: '36'
+    url: http://www.gutenberg.org/2009/agents/36
+    wikipedia: http://en.wikipedia.org/wiki/Lucy_Maud_Montgomery
+description: Anne of Green Gables
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '1998-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1354'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Islands -- Fiction'
+- !lcsh 'Shirley, Anne (Fictitious character) -- Fiction'
+- !lcc 'PZ'
+- !lcc 'PS'
+- !lcsh 'Prince Edward Island -- Fiction'
+- !lcsh 'City and town life -- Fiction'
+- GITenberg
+title: Chronicles of Avonlea
+url: http://www.gutenberg.org/ebooks/1354
